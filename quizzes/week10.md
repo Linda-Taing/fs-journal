@@ -41,21 +41,22 @@ The string is how the data comes through, not just numbers but multiple characte
 **7.** In the example what is `abstract` preventing?
 <!-- enter you answer in the space below -->
 ```
-Abstarct is preventing you from creating an object from this class directly.
+Abstract is preventing you from creating an object from this class directly.
 
 ```
 **8.** In the example what is the purpose of `virtual`?
 <!-- enter you answer in the space below -->
 ```
-
+Virtual is a property declaring that there is an inheritance class. 
 ```
 **9.** Name four access modifiers:
 <!-- enter you answer in the space below -->
 ```
+Public, Private, Internal, and protected.
 
 ```
 **10.** If you set a class or method to private, what can access it?
 <!-- enter you answer in the space below -->
 ```
-
+Only that specific method or class can access.
 ```
